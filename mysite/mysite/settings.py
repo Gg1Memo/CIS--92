@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = [ "*" ]
 CSRF_TRUSTED_ORIGINS = [ "https://*.run.app" ]
-CSRF_TRUSTED_ORIGINS = [ "https://*.run.app" ] 
 CSRF_TRUSTED_ORIGINS = ['https://*.cloudshell.dev']
 
 # Application definition
